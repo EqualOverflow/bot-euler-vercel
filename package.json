@@ -1,0 +1,15 @@
+{
+  "name": "hw_helper_bot",
+  "version": "1.0.0",
+  "description": "This is bot to help with homework.",
+  "main": "euler.js",
+  "scripts": {
+    "start": "node euler.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "puppeteer": "^5.4.1"
+  }
+}
